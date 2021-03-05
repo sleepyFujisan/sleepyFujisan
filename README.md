@@ -5,8 +5,6 @@ i primarily write in java, python, and c. i have some experience with javascript
 
 im a privacy and security advocate, and am currently training in information security.
 
-are you a student and came across my code looking for answers at 2am? no worries, use whatever you want.
-
 have a good day/night/whatever
 
 sincerely,
