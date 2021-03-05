@@ -1,17 +1,10 @@
 
 hi, im fuji-san. just a college student who likes to write some code.
 
-languages:
- 🙂 what im good at: Java, Python, C
- 😐 what im ok at: Javascript, Kotlin
- 🙁 what i suck at: Swift, C++, HTML
+languages: Java, Python, C, C++, Javascript, Kotlin, Swift, C++, HTML
 
-working on / learning currently:
- ~ infosec (i would list everything but this covers it all really)
+working on / learning currently: infosec (i would list everything but this covers it all really)
  
- favorite food:
- ~ ramen
-
-protip: only have microwave ramen? add an egg, some sesame oil, hoisin and lemon to make it taste better.
-
-other protip: ever heard of "black blood of the earth"? that stuff will keep you awake for days
+ favorite food: ramen
+ 
+ ![](https://64.media.tumblr.com/e5483da1676165518723f4b0e249198f/tumblr_p6bc8gFpu91tcvan1o1_500.gifv)
