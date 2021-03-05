@@ -1,5 +1,3 @@
-<!--
-**sleepyFujisan/sleepyFujisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 hi, im fuji-san. just a college student who likes to write some code.
 
