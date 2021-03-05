@@ -1,16 +1,19 @@
-### Hi there 👋
-
 <!--
 **sleepyFujisan/sleepyFujisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+hi, im fuji-san. just a college student who likes to write some code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+languages:
+ 🙂 what im good at: Java, Python, C
+ 😐 what im ok at: Javascript, Kotlin
+ 🙁 what i suck at: Swift, C++, HTML
+
+working on / learning currently:
+ ~ infosec (i would list everything but this covers it all really)
+ 
+ favorite food:
+ ~ ramen
+
+protip: only have microwave ramen? add an egg, some sesame oil, hoisin and lemon to make it taste better.
+
+other protip: ever heard of "black blood of the earth"? that stuff will keep you awake for days
