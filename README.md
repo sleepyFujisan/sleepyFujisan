@@ -19,4 +19,4 @@ fuji-san🗻
 
 ###### currently i am in the process of uploading all my old code etc. dw if you see some empty repositories
 
-[![sleepuFujisan's github stats](https://github-readme-stats.vercel.app/api?username=sleepyFujisan)](https://github.com/anuraghazra/github-readme-stats)
+[![sleepuFujisan's github stats](https://github-readme-stats.vercel.app/api?username=sleepyFujisan)](https://github.com/sleepyFujisan/github-readme-stats)
