@@ -21,4 +21,4 @@ fuji-san🗻
 
 [![sleepyFujisan's github stats](https://github-readme-stats.vercel.app/api?username=sleepyFujisan&theme=midnight-purple)](https://github.com/sleepyFujisan/github-readme-stats)
 
-[![sleepyFujisan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyFujisan&langs_count=5)](https://github.com/sleepyFujisan/github-readme-stats)
+[![sleepyFujisan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyFujisan&langs_count=5&theme=midnight-purple)](https://github.com/sleepyFujisan/github-readme-stats)
