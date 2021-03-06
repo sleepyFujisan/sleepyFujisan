@@ -14,3 +14,7 @@ fuji-san🗻
 ![](https://64.media.tumblr.com/e5483da1676165518723f4b0e249198f/tumblr_p6bc8gFpu91tcvan1o1_500.gifv)
  
 (if im not coding, just assume im asleep)
+
+#### *status update:*
+
+###### currently i am in the process of uploading all my old code etc. dw if you see some empty repositories
