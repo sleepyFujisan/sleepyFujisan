@@ -19,5 +19,6 @@ fuji-san🗻
 
 ###### currently i am in the process of uploading all my old code etc. dw if you see some empty repositories
 
-[![sleepuFujisan's github stats](https://github-readme-stats.vercel.app/api?username=sleepyFujisan&theme=midnight-purple)](https://github.com/sleepyFujisan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyFujisan&layout=compact)](https://github.com/sleepyFujisan/github-readme-stats)
+[![sleepyFujisan's github stats](https://github-readme-stats.vercel.app/api?username=sleepyFujisan&theme=midnight-purple)](https://github.com/sleepyFujisan/github-readme-stats)
+
+[![sleepyFujisan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyFujisan&langs_count=5)](https://github.com/sleepyFujisan/github-readme-stats)
